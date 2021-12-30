@@ -1,0 +1,27 @@
+C:\Users\asus\source\repos\Police System I\Police System I\bin\Debug\Police System I.exe.config
+C:\Users\asus\source\repos\Police System I\Police System I\bin\Debug\Police System I.exe
+C:\Users\asus\source\repos\Police System I\Police System I\bin\Debug\Police System I.pdb
+C:\Users\asus\source\repos\Police System I\Police System I\obj\Debug\Police System I.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\Police System I\Police System I\obj\Debug\Police_System_I.Form1.resources
+C:\Users\asus\source\repos\Police System I\Police System I\obj\Debug\Police_System_I.Properties.Resources.resources
+C:\Users\asus\source\repos\Police System I\Police System I\obj\Debug\Police System I.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\Police System I\Police System I\obj\Debug\Police System I.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Police System I\Police System I\obj\Debug\Police System I.exe
+C:\Users\asus\source\repos\Police System I\Police System I\obj\Debug\Police System I.pdb
+C:\Users\asus\source\repos\Police System I\Police System I\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\asus\source\repos\Police System I\Police System I\obj\Debug\Police System I.csproj.CopyComplete
+C:\Users\asus\source\repos\Police System I\Police System I\obj\Debug\Police_System_I.Accueil.resources
+C:\Users\asus\source\repos\Police System I\Police System I\obj\Debug\Police_System_I.NewFolder1.UC_Acceuil.resources
+C:\Users\asus\source\repos\Police System I\Police System I\obj\Debug\Police_System_I.NewFolder1.UC_Crime.resources
+C:\Users\asus\source\repos\Police System I\Police System I\obj\Debug\Police_System_I.NewFolder1.UC_Criminel.resources
+C:\Users\asus\source\repos\Police System I\Police System I\obj\Debug\Police_System_I.NewFolder1.UC_Officiers.resources
+C:\Users\asus\source\repos\Police System I\Police System I\obj\Debug\Police_System_I.NewFolder1.UC_Recherche.resources
+C:\Users\asus\source\repos\Police System I\Police System I\obj\Debug\Police_System_I.Start.resources
+C:\Users\asus\source\repos\Police System I\Police System I\obj\Debug\Police_System_I.Accueil2.resources
+C:\Users\asus\source\repos\Police System I\Police System I\obj\Debug\Police_System_I.officierForm.resources
+C:\Users\asus\source\repos\Police System I\Police System I\obj\Debug\Police_System_I.SuccesForm.resources
+C:\Users\asus\source\repos\Police System I\Police System I\obj\Debug\Police_System_I.ask.resources
+C:\Users\asus\source\repos\Police System I\Police System I\obj\Debug\Police_System_I.ask2.resources
+C:\Users\asus\source\repos\Police System I\Police System I\obj\Debug\Police_System_I.NewFolder1.PrintRecherche.resources
+C:\Users\asus\source\repos\Police System I\Police System I\obj\Debug\Police_System_I.PrintRechercher.resources
+C:\Users\asus\source\repos\Police System I\Police System I\obj\Debug\Police_System_I.NewFolder1.plaintes.resources
